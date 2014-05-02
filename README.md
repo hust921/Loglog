@@ -10,7 +10,8 @@ Can run without dependencies, but will not function.
   You get the option to export a colorized version to HTML.
   Or read colorized output in a "less" session.
   
-  <INSERT PICTURE HERE!>
+![Alt text](http://i.imgur.com/1aHJ50G.jpg "Script running")
+![Alt text](http://blog.pastoutafait.fr/dotfiles/public/images/linux/ccze/capture-ccze03.jpg "HTML output")
 
 ## Documentation:
   It's pretty strait forward to use.
@@ -41,7 +42,8 @@ Can run without dependencies, but will not function.
     
   2.) Simple download and run loglog.sh
 
-## Author Morten Lund <92morten@gmail.com>
+## Author Morten Lund 
+  <92morten@gmail.com>
 
 ## Disclaimer:
 See LICENSE.txt
